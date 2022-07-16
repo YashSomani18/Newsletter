@@ -69,8 +69,5 @@ app.post("/failure",function(req,res){
    console.log("Server is running on port 2000");
  })
 
-// API KEY
-// ee37da11fd49fa4e3879624e3ba7f9a7-us12
 
-// Audience ID
- // 8d1594dfee
+
