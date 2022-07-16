@@ -5,5 +5,5 @@ This is a simple and beautiful newsletter website where we collect the data from
 The Project has been deployed using heroku
 
 API key upload on github is the disabled key.
-and the live link for the website is :-
+The live link for the website is :-
 https://peaceful-chamber-01003.herokuapp.com/
